@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+#show_sketch{
+    float: right;
+}
+#timer{
+    float: right;
+    font-size: 20px;
+}
+#score{
+    float: left;
+    font-size: 20px;
+}
+h1{
+    background-color: lavender;
+}
+#sketch_to_be_drawn{
+    background-color: lavender;
+}
